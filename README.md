@@ -1,6 +1,6 @@
 TAKT: Target-Aware Knowledge Transfer for Whole Slide Image Classification (MICCAI-2024)
 ===========
-[Conghao Xiong](https://bearcleverproud.github.io/)*, [Yi Lin](https://ianyilin.github.io)*, [Hao Chen](https://cse.hkust.edu.hk/~jhc/), [Hao Zheng](https://scholar.google.com.hk/citations?user=LsJVCSoAAAAJ&hl=zh-CN), [Dong Wei](https://scholar.google.com.hk/citations?hl=zh-CN&user=njMpTPwAAAAJ), [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), [Joseph J. Y. Sung](https://www.ntu.edu.sg/about-us/leadership-organisation/profiles/professor-joseph-sung) and [Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home)
+[Conghao Xiong](https://bearcleverproud.github.io/)\*, [Yi Lin](https://ianyilin.github.io)\*, [Hao Chen](https://cse.hkust.edu.hk/~jhc/), [Hao Zheng](https://scholar.google.com.hk/citations?user=LsJVCSoAAAAJ&hl=zh-CN), [Dong Wei](https://scholar.google.com.hk/citations?hl=zh-CN&user=njMpTPwAAAAJ), [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), [Joseph J. Y. Sung](https://www.ntu.edu.sg/about-us/leadership-organisation/profiles/professor-joseph-sung) and [Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home)
 
 [ArXiv](https://arxiv.org/abs/2303.05780) | [MICCAI](https://papers.miccai.org/miccai-2024/760-Paper2121.html)
 * Equal contribution
